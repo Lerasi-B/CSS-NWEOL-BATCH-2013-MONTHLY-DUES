@@ -95,12 +95,12 @@
                     <th>Name</th>
                     <th>Jan</th>
                     <th>Feb</th>
-		    <th>March
+		    		<th>March
                     <th>April</th>
-		    <th>May </th>
-		    <th>June</th>
-		    <th>July</th>
-                </tr>
+		    		<th>May </th>
+		    		<th>June</th>
+		  		 </tr>
+				 
             </thead>
             <tbody>
                 <tr>
