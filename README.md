@@ -195,6 +195,7 @@
                     <td>1000</td>
 		    <td>1000</td>
                     <td>1000</td>
+					<td>1000</td>
                 </tr>
 <tr>
                     <td>Adomagio Y.B</td>
