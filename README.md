@@ -99,9 +99,9 @@
                     <th>April</th>
 		    		<th>May </th>
 		    		<th>June</th>
-		  		 </tr>
+		  		 
 				 
-            </thead>
+            
             <tbody>
                 <tr>
                     <td>Barididum</td>
