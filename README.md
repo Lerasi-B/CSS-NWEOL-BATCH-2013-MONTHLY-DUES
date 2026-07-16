@@ -107,10 +107,10 @@
                     <td>Barididum</td>
                     <td>1000</td>
                     <td>1000</td>
-		    <td>1000</td>
-		    <td>1000</td>
-		    <td>1000</td>
-		    <td>1000</td>
+		    		<td>1000</td>
+		   			<td>1000</td>
+		    		<td>1000</td>
+		    		<td>1000</td>
                    	
 
 
@@ -200,7 +200,7 @@
 <tr>
                     <td>Adomagio Y.B</td>
                     <td>1000</td>
-		    <td>1000</td>
+		   			<td>1000</td>
                     <td>1000</td>
                 </tr>
 <tr>
@@ -241,8 +241,8 @@
 <tr>
                     <td>Mrs. Barididum M</td>
                     <td>1000</td>
-		    <td>1000</td>
-		    <td>1000</td>
+		    		<td>1000</td>
+		    		<td>1000</td>
                     <td>1000</td>
                 </tr>
 
@@ -250,11 +250,12 @@
 
                 <tr>
                     <td><b>Total</b></td>
-		    <td>19,000</td>
-     		    <td>16,000</td>
-                    <td>13,000</td>
+		    		<td>19,000</td>
+					<td>19,000</td>
+     		    	<td>16,000</td>
+                 	<td>13,000</td>
                     <td>7,000</td>
-		    <td>2,000</td>
+		    		<td>2,000</td>
 
 
 <h1>Total monthly dues from Jan to July: 76,000</h1>
