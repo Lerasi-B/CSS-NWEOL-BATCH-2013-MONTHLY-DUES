@@ -251,7 +251,7 @@
                     
 
                 <tr>
-                    <td><b>Total</b></td>
+                    <td><b>Total</td>
 		    		<td>19,000</td>
 					<td>19,000</td>
      		    	<td>16,000</td>
@@ -260,8 +260,8 @@
 		    		<td>2,000</td>
 					
 					
-</tr>
-</table>
+      </tr>
+
 
 <h1 class="center-heading">Total monthly dues from Jan to July: 76,000</h1>
     
