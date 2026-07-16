@@ -183,17 +183,17 @@
 <tr>
                     <td>Barisere Gogo</td>
                     <td>1000</td>
-		    <td>1000</td>
+		            <td>1000</td>
                     <td>1000</td>
-		    <td>1000</td>
+		            <td>1000</td>
                     <td>1000</td>
                 </tr>
 <tr>
                     <td>Barivure Yorka</td>
                     <td>1000</td>
-		    <td>1000</td>
+		            <td>1000</td>
                     <td>1000</td>
-		    <td>1000</td>
+		            <td>1000</td>
                     <td>1000</td>
 					<td>1000</td>
                 </tr>
