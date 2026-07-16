@@ -78,8 +78,8 @@
             background-color: #e0a832;
         }
     </style>
-</head>
-<body>
+    </head>
+    <body>
 
     <header>
         <h1>CSS NWEOL BATCH 2013</h1>
@@ -260,14 +260,15 @@
 		    		<td>2,000</td>
 					
 					
-
+</tr>
+</table>
 
 <h1>Total monthly dues from Jan to July: 76,000</h1>
     
-</tr>
+
     <footer>
         <p>Community Secondary School Nweol batch 2013 is the most coordinated batch in the world</p>
         <u><a href=" https://lerasi-b.github.io/CSS-NWEOL-BATCH13/" class="payment-link">Click here to checkthe full account report of the year</a>
-		
+		</footer>	
    
 
